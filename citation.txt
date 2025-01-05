@@ -1,0 +1,6 @@
+@article{REPO254,
+    author = "Lyu, Jiafei and Xu, Kang and Xu, Jiacheng and Yan, Mengbei and Yang, Jingwen and Zhang, Zongzhang and Bai, Chenjia and Lu, Zongqing and Li, Xiu",
+    journal = "arXiv preprint arXiv:2410.20750",
+    title = "{ODRL: A Benchmark for Off-Dynamics Reinforcement Learning}",
+    year = "2024"
+}
