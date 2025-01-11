@@ -1,0 +1,7 @@
+-e git+https://github.com/Farama-Foundation/D4RL.git@4235ef21ac5ba35285ecfce133d9eff62f3490e5#egg=D4RL
+-e git+https://github.com/MattChanTK/gym-maze.git@83176811b49b5538a6213520612f44fb1bc49114#egg=gym_maze
+-e git+https://github.com/TianhongDai/reinforcement-learning-algorithms.git@88ff69c082cba9305275a0082794d4b467ac823f#egg=rl_utils
+torch==1.11.0+cu113
+torchaudio==0.11.0+cu113
+torchvision==0.12.0+cu113
+python train.py --policy DARC --env hopper-kinematic-legjnt --shift_level hard --seed 0 --mode 0 --dir runs
